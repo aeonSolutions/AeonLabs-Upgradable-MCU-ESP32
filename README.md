@@ -18,6 +18,13 @@
 
 # Upgradable MCU ESP32 
 
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32/blob/main/media/kicad_OmsixzQHVh.png" width="30%">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32/blob/main/media/kicad_iB1nazYp63.png" width="30%">
+   <img src="https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32/blob/main/media/kicad_qYoSYTVZ1u.png" width="30%">
+</p>
+
 <br>
 
 ## Compatibility
